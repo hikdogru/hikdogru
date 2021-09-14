@@ -2,7 +2,7 @@
 
 
 
-<h1 align="left">Fullstack developer from Turkey</h1>
+<h1 align="left">Web developer from Turkey</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hikdogru&label=Profile%20views&color=0e75b6&style=flat" alt="hikdogru" /> </p>
 
